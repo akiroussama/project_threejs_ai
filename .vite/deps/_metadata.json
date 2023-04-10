@@ -1,0 +1,77 @@
+{
+  "hash": "16c62352",
+  "browserHash": "a467e91d",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "6449b237",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f7d10dcb",
+      "needsInterop": true
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "60ad39e6",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "ea5a2cc5",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "154bc30f",
+      "needsInterop": false
+    },
+    "valtio": {
+      "src": "../../node_modules/valtio/esm/index.mjs",
+      "file": "valtio.js",
+      "fileHash": "fc5a44a4",
+      "needsInterop": false
+    },
+    "maath": {
+      "src": "../../node_modules/maath/dist/maath.esm.js",
+      "file": "maath.js",
+      "fileHash": "debef137",
+      "needsInterop": false
+    },
+    "react-color": {
+      "src": "../../node_modules/react-color/es/index.js",
+      "file": "react-color.js",
+      "fileHash": "bdb7f996",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WDFTZEMQ": {
+      "file": "chunk-WDFTZEMQ.js"
+    },
+    "chunk-ON6MOVQL": {
+      "file": "chunk-ON6MOVQL.js"
+    },
+    "chunk-UW277Z5T": {
+      "file": "chunk-UW277Z5T.js"
+    },
+    "chunk-4LFHBXLP": {
+      "file": "chunk-4LFHBXLP.js"
+    },
+    "chunk-TOA47ICV": {
+      "file": "chunk-TOA47ICV.js"
+    },
+    "chunk-FLAVOKRJ": {
+      "file": "chunk-FLAVOKRJ.js"
+    },
+    "chunk-AC2VUBZ6": {
+      "file": "chunk-AC2VUBZ6.js"
+    }
+  }
+}
